@@ -1,0 +1,40 @@
+.container{
+    background-color:antiquewhite;
+    margin: 12px;
+    padding: 6px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    
+}
+.form-group{
+    background-color:;
+    padding: 8px;
+    border-radius: 12%;
+    border: 6px solid white;
+    }
+#exampleInputNombre{
+    background-color: azure;
+    border-radius: 12%;
+    
+}
+#exampleInputEmpresa{
+    background-color: azure;
+    border-radius: 12%;
+    
+}
+#exampleInputEmail1{
+    background-color: azure;
+    border-radius: 12%;
+    
+}
+#exampleInputTelefono{
+    background-color: azure;
+    border-radius: 12%;
+    
+}
+.btn-gourmet{
+    color: blueviolet;
+    background-color: aqua;
+}
