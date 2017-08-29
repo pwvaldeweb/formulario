@@ -1,36 +1,45 @@
+body{
+    width: 100%;
+    background-image: url(puntos2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .container{
-    background-color:antiquewhite;
+    background-color:rgba(63,0,117,0.5);
     margin: 12px;
     padding: 6px;
+    width: 60%;
+    
 }
 h1{
     text-align: center;
-    color: aliceblue;
+    background-color: rgba(255,255,255,0.8);
+    font-weight: bold;
     
 }
 .form-group{
-    background-color:;
+    background-color:aquamarine;
     padding: 8px;
     border-radius: 12%;
     border: 6px solid white;
     }
 #exampleInputNombre{
-    background-color: azure;
+    background-color: white;
     border-radius: 12%;
     
 }
 #exampleInputEmpresa{
-    background-color: azure;
+    background-color: white;
     border-radius: 12%;
     
 }
 #exampleInputEmail1{
-    background-color: azure;
+    background-color: white;
     border-radius: 12%;
     
 }
 #exampleInputTelefono{
-    background-color: azure;
+    background-color: white;
     border-radius: 12%;
     
 }
